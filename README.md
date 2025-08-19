@@ -19,7 +19,7 @@ I made this because Roblox doesn’t provide any bulk unfriend option and clicki
 
 1. Log into [roblox.com](https://www.roblox.com) on your browser.
 2. Press **F12** and go to the **Console** tab.
-3. Copy the script from `script.js` into the console and press **Enter**.
+3. Copy the script from `main.js` into the console and press **Enter**.
 4. The script will show how many friends you have, then start removing them one by one.
 
 That’s it. It’ll keep going until your list is empty.
