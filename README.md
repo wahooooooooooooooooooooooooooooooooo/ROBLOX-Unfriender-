@@ -1,7 +1,7 @@
 # rblx unfriender
 
-A small JavaScript script that will automatically remove every friend from your Roblox account.  
-I made this because Roblox doesn’t provide any bulk unfriend option and clicking hundreds (or thousands) of times gets old fast.
+js code that unfriends people on roblox.
+i made this because robloxs shitty website doesnt allow you to mass unfriend
 
 ---
 
